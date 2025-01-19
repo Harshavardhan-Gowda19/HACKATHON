@@ -26,14 +26,15 @@ The dataset 📂 provided includes EEG signals categorized into four classes:
 ## Index
 
 
-- [Task 4: Basic Analysis of EEG Signals 🧠📊](#task-4-denoising-eeg-data-and-calculating-psnr)
-- [Task 5: Extracting Frequency Domain Features 🎛️📊](#task-5-classification-on-denoised-data)
-- [Task 6: Building the Baseline Model 🧠💻](#task-6-generating-synthetic-eeg-data-using-gan)
-- [Task 7: Building the Best Model 🚀](#task-7-classifier-evaluation-on-synthetic-data)
-- [Task 8: Feature Importance and Channel Masking for EEG Classification 🧠📊](#task-8-data-augmentation-using-gan-for-eeg-signals)
-- [Task 9: EEG Denoising and Classification 🧠🔧](#task-9-training-classifiers-on-real-vs-synthetic-data)
-- [Task 10: Generative Modeling for Synthetic EEG Data 🧠✨](#task-10-evaluation-of-synthetic-data-quality)
-- [CONCLUSION](#task-11-overall-summary-and-conclusion)
+- [Task 4: Basic Analysis of EEG Signals 🧠📊](#task-4-basic-analysis-of-eeg-signals)
+- [Task 5: Extracting Frequency Domain Features 🎛️📊](#task-5-extracting-frequency-domain-features)
+- [Task 6: Building the Baseline Model 🧠💻](#task-6-building-the-baseline-model)
+- [Task 7: Building the Best Model 🚀](#task-7-building-the-best-model)
+- [Task 8: Feature Importance and Channel Masking for EEG Classification 🧠📊](#task-8-feature-importance-and-channel-masking-for-eeg-classification)
+- [Task 9: EEG Denoising and Classification 🧠🔧](#task-9-eeg-denoising-and-classification)
+- [Task 10: Generative Modeling for Synthetic EEG Data 🧠✨](#task-10-generative-modeling-for-synthetic-eeg-data)
+- [Conclusion](#conclusion)
+
 
 
 ## Task 4: Basic Analysis of EEG Signals 🧠📊
