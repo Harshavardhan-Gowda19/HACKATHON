@@ -26,7 +26,7 @@ The dataset 📂 provided includes EEG signals categorized into four classes:
 ## Index
 
 
-- [Task 4: Basic Analysis of EEG Signals 🧠📊](#task-4-basic-analysis-of-eeg-signals)
+- [Task 4: Basic Analysis of EEG Signals ](#task-4-basic-analysis-of-eeg-signals)
 - [Task 5: Extracting Frequency Domain Features 🎛️📊](#task-5-extracting-frequency-domain-features)
 - [Task 6: Building the Baseline Model 🧠💻](#task-6-building-the-baseline-model)
 - [Task 7: Building the Best Model 🚀](#task-7-building-the-best-model)
